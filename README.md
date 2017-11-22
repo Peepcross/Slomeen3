@@ -26,5 +26,20 @@ P8) La resolucion de 1stp es de 2.6 Å. Publicada en 1992. Existe una macromolé
 
 P9)
 
+Solo hélices alfa
 
-![imagen alfa](
+![imagen alfa](https://github.com/Peepcross/Slomeen3/blob/master/alfa.png)
+
+Solo láminas beta 
+
+![imagen beta](https://github.com/Peepcross/Slomeen3/blob/master/beta.png)
+
+Sin helices ni laminas. Aminoácidos aromáticos.
+
+![imagen nada](https://github.com/Peepcross/Slomeen3/blob/master/nada.png)
+
+P10) Es una vitamina, soluble en agua, compuesta por un anillo de ureido fusionada con un anillo de tetrahidrotiofeno y tiene un sustituyente de ácido valérico unido a uno de los carbonos de este anillo.
+
+![imagen btn](https://github.com/Peepcross/Slomeen3/blob/master/BTN.png)
+
+P11) ![imagen cerca](

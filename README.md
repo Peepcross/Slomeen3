@@ -42,4 +42,6 @@ P10) Es una vitamina, soluble en agua, compuesta por un anillo de ureido fusiona
 
 ![imagen btn](https://github.com/Peepcross/Slomeen3/blob/master/BTN.png)
 
-P11) ![imagen cerca](
+P11) ![imagen cerca](https://github.com/Peepcross/Slomeen3/blob/master/cerca.png)
+
+P12) 

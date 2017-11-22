@@ -44,4 +44,10 @@ P10) Es una vitamina, soluble en agua, compuesta por un anillo de ureido fusiona
 
 P11) ![imagen cerca](https://github.com/Peepcross/Slomeen3/blob/master/cerca.png)
 
-P12) 
+P12) Estan a 16.84. Son importantes ya que estan cerca del sitio de union de biotina.
+
+![imagen distancia](https://github.com/Peepcross/Slomeen3/blob/master/distancia.png)
+
+P13) 
+
+P14) Es importante ya que mustra las interacciones moleculares estándar de una estructura de este tipo.
